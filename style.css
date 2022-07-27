@@ -1,0 +1,44 @@
+ header {
+     background: #FFF9F4;
+ }
+
+ .nike-react {
+     color: #FA804C;
+ }
+
+ .name {
+     font-weight: 700;
+     font-size: 70px;
+
+ }
+
+ .cart {
+     width: 24px;
+     height: 24px;
+ }
+
+ .button {
+     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+     width: auto;
+     height: 50px;
+ }
+
+ .card-img {
+     background: #F1F1F1;
+     border-radius: 15px;
+ }
+
+ .price {
+     color: #FA804C;
+     font-weight: 900px;
+ }
+
+ .bottom-img {
+     width: 78px;
+     height: 82px;
+ }
+
+ .laddu {
+     width: 1171px;
+     height: 437px;
+ }
